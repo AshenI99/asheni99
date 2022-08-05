@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center" style="margin-top: 550px">Hi (👋), I'm Ashen Iranda. <br/> A passionate software engineer 👨‍💻</div>  
+## <div align="center" style="margin-top: 550px">Hi (👋), I'm Ashen Iranda. <br/> A passionate software engineer 👨‍💻<br/>  </br></div>  
   
 
 - 📚 I’m currently studying for my Bachelor's Degree in Information Technology  
