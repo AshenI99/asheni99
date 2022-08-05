@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" align="center" style="max-width: 400px" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" align="center" style="width: 550px" />
 </div>  
   
 
-## <div align="center">Hi (👋), I'm Ashen Iranda. <br/> A passionate software engineer 👨‍💻</div>  
+## <div align="center" style="margin-top: 550px">Hi (👋), I'm Ashen Iranda. <br/> A passionate software engineer 👨‍💻</div>  
   
 
 - 📚 I’m currently studying for my Bachelor's Degree in Information Technology  
